@@ -52,7 +52,7 @@
 //   );
 // }
 
-// // ... (Giữ nguyên styles từ câu trả lời trước)
+
 // const styles = StyleSheet.create({
 //   container: { flex: 1, backgroundColor: '#FFFFFF' },
 //   content: {
